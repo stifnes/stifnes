@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there! I'm **Stifnes Samuel** 🧑‍💻, a passionate developer working from home 🏡. I love crafting elegant solutions with code and have a knack for building user-friendly web applications. 🌐
 
-<!--
-**stifnes/stifnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Skills & Interests:**
+- JavaScript enthusiast 💻
+- HTML & CSS wizard 🎨
+- React & Node.js fanboy ⚛️
+- Open-source contributor 🌍
 
-Here are some ideas to get you started:
+🔧 **Fun Facts:**
+- I enjoy exploring new tech trends 📈
+- Avid coffee lover ☕
+- Always up for a coding challenge 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and create something amazing together! ✨
+
+🌐 [My Linkedin](https://www.linkedin.com/in/stifnes-samuel-357300102/)
