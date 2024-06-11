@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Stifnes Samuel** 🧑‍💻, a passionate developer working from home 🏡. I love crafting elegant solutions with code and have a knack for building user-friendly web applications. 🌐
+👋 Hi there! I'm **Stifnes Samuel** 🧑‍💻, a passionate front end developer. I love crafting elegant solutions with code and have a knack for building user-friendly web applications. 🌐
 
 🚀 **Skills & Interests:**
 - JavaScript enthusiast 💻
@@ -8,7 +8,7 @@
 
 🔧 **Fun Facts:**
 - I enjoy exploring new tech trends 📈
-- Avid coffee lover ☕
+- Love to travel, hike and explore new places
 - Always up for a coding challenge 💪
 
 Let's connect and create something amazing together! ✨
