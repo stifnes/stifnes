@@ -36,6 +36,8 @@ I’m a passionate Frontend Developer with a love for crafting elegant, efficien
 
 📢 Let's Connect!
 
-💼 LinkedIn: stifnes-samuel🐙 GitHub: stifnes🌐 Portfolio: Coming Soon! 🚀✉️ Email: YourEmail@example.com
+💼 LinkedIn: stifnes-samuel🐙 
+GitHub: stifnes🌐 
+🚀✉️ Email: samuelstifnes@gmail.com
 
 🚀 Let’s build something amazing together! 🎨💻✨
